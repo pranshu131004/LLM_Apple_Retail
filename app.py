@@ -121,7 +121,7 @@ def main():
                 "specifications": "128GB, 256GB, 512GB, 6.1-inch Super Retina XDR display.",
                 "features": "Face ID, 5G capability, Ceramic Shield, Night mode.",
                 "use_cases": "Ideal for photography, gaming, and day-to-day usage.",
-                "image": "E:/WebD/C programming EL/iPhone13.jpg"
+                "image": "path/to/iPhone13.jpg"
             },
             "iphone14": {
                 "name": "iPhone 14",
@@ -130,7 +130,7 @@ def main():
                 "specifications": "128GB, 256GB, 512GB, 6.1-inch Super Retina XDR display.",
                 "features": "ProMotion, Ceramic Shield, A16 Bionic chip.",
                 "use_cases": "Great for professional photography, video editing, and high-performance tasks.",
-                "image": "E:/WebD/C programming EL/iPhone14.jpg"
+                "image": "path/to/iPhone14.jpg"
             },
             "iphone15": {
                 "name": "iPhone 15",
@@ -139,7 +139,7 @@ def main():
                 "specifications": "128GB, 256GB, 512GB, 1TB, 6.7-inch Super Retina XDR display.",
                 "features": "ProMotion, Ceramic Shield, 5G, MagSafe, Improved battery.",
                 "use_cases": "Perfect for creatives, gamers, and professionals.",
-                "image": "E:/WebD/C programming EL/iPhone15.jpg"
+                "image": "path/to/iPhone15.jpg"
             }
         }
 
